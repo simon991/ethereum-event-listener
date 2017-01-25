@@ -5,6 +5,8 @@ time the module can only be used as a CLI tool.
 ## Installation
 At the moment there are two possibilities to run the CLI tool.
 
+https://www.npmjs.com/package/ethereum-listener
+
 ### 1. Run the script locally
 First download the project from Github and navigate to the project directory. 
 Then simply run:
