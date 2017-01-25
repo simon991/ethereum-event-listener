@@ -26,7 +26,7 @@ var event;
 clear();
 console.log(
     chalk.blue(
-        figlet.textSync('Contract listener', {horizontalLayout: 'full'})
+        figlet.textSync('Ethereum listener', {horizontalLayout: 'full'})
     )
 );
 

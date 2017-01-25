@@ -1,7 +1,7 @@
 {
-  "name": "monitor-event-listener",
+  "name": "ethereum-listener",
   "version": "1.0.0",
-  "description": "This little npm module subscribes to the monitoring contract of the microservice marketplace and prints out the information.",
+  "description": "This little npm module subscribes to the event of a contract in the ethereum blockchain and prints out the information.",
   "main": "index.js",
   "scripts": {
     "test": "test"
