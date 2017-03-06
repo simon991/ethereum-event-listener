@@ -1,6 +1,6 @@
 {
   "name": "ethereum-listener",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "This little npm module subscribes to the event of a contract in the ethereum blockchain and prints out the information.",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cp2017/monitoring-event-listener.git"
+    "url": "git+https://github.com/simon991/ethereum-event-listener.git"
   },
   "keywords": [
     "ethereum",
@@ -23,9 +23,9 @@
   "author": "cp2017",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cp2017/monitoring-event-listener/issues"
+    "url": "https://github.com/simon991/ethereum-event-listener/issues"
   },
-  "homepage": "https://github.com/cp2017/monitoring-event-listener#readme",
+  "homepage": "https://github.com/simon991/ethereum-event-listener#readme",
   "dependencies": {
     "chalk": "^1.1.3",
     "clear": "0.0.1",
